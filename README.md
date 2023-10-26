@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for **Internships in Web Development/Software Development**
 
-- 💬 I'm well versed with **C++, DSA**
+- 💬 I'm well versed with **C++, DSA,competative programming**
 
 ## 🌐 Socials:
 
